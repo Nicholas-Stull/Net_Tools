@@ -1,2 +1,4 @@
 lib
 .vscode
+NetTools.logs
+NetTools-*.*.log
